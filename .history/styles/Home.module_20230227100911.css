@@ -1,0 +1,8 @@
+.main {
+  font-family: lust;
+  background: rgb(116, 114, 162);
+  background: linear-gradient(90deg, rgba(141,134,255,1) 0%, rgba(255,0,0,1) 100%);
+  z-index: -1;
+  -webkit-background-clip: text;
+  /* -webkit-text-fill-color: transparent; */
+}
